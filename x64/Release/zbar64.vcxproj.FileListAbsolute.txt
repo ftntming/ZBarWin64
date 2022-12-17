@@ -1,0 +1,1 @@
+C:\Users\mli\dev\ZBarWin64\x64\Release\libzbar64-0.dll
